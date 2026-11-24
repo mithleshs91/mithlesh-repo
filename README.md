@@ -1,4 +1,4 @@
 # mithlesh-repo
 this is my first repoistry
 <br>
-auther - mithlesh kumar sahu
+author - mithlesh kumar sahu
